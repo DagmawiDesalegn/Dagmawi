@@ -42,7 +42,7 @@ if (Category<1 || Category>5){
 
 std::cout << "Receipt:\n";
 for (int i = 1; i <= itemsSold; ++i) {
-    std::cout << "Item " << i << ": " << Price << " birr\n"; }
+    std::cout << "Item " << i << "= " << Price << " birr\n"; }
     
 
 
